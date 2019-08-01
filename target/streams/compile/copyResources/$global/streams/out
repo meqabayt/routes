@@ -1,0 +1,9 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/logback.xml,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/logback.xml)
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/messages,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/messages)
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/application.conf,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/application.conf)
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/evolutions,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/evolutions)
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/evolutions/default,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/evolutions/default)
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/evolutions/default/2.sql,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/evolutions/default/2.sql)
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/evolutions/default/1.sql,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/evolutions/default/1.sql)
+[debug] 	(/Users/elnurmemmedov/code/3rd/travelseekr/routes/conf/routes,/Users/elnurmemmedov/code/3rd/travelseekr/routes/target/scala-2.12/classes/routes)

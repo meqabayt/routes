@@ -1,0 +1,20 @@
+[warn] /Users/elnurmemmedov/code/3rd/travelseekr/routes/app/modules/MyPostgresProfile.scala:20:47: type Capability in package profile is deprecated (since 3.2): Use `slick.basic.Capability` instead of `slick.profile.Capability`
+[warn]   override protected def computeCapabilities: Set[Capability] =
+[warn]                                               ^
+[warn] /Users/elnurmemmedov/code/3rd/travelseekr/routes/app/modules/MyPostgresProfile.scala:21:45: value capabilities in object JdbcProfile is deprecated (since 3.2): Use object `slick.jdbc.JdbcCapabilities` instead of `slick.driver.JdbcProfile.capabilities`
+[warn]     super.computeCapabilities + JdbcProfile.capabilities.insertOrUpdate
+[warn]                                             ^
+[warn] two warnings found
+[warn] /Users/elnurmemmedov/code/3rd/travelseekr/routes/app/models/Trip.scala:34:42: method jodaDateReads in trait EnvReads is deprecated (since 2.6.0): Include play-json-joda as a dependency and use JodaReads.jodaDateReads
+[warn]   implicit val yourJodaDateReads = Reads.jodaDateReads("yyyy-MM-dd'T'HH:mm:ss.SSSZ")
+[warn]                                          ^
+[warn] /Users/elnurmemmedov/code/3rd/travelseekr/routes/app/models/Trip.scala:35:44: method jodaDateWrites in trait EnvWrites is deprecated (since 2.6.0): Include play-json-joda as a dependency and use JodaWrites.jodaDateWrites
+[warn]   implicit val yourJodaDateWrites = Writes.jodaDateWrites("yyyy-MM-dd'T'HH:mm:ss.SSSZ'")
+[warn]                                            ^
+[warn] /Users/elnurmemmedov/code/3rd/travelseekr/routes/app/models/Trip.scala:54:42: method jodaDateReads in trait EnvReads is deprecated (since 2.6.0): Include play-json-joda as a dependency and use JodaReads.jodaDateReads
+[warn]   implicit val yourJodaDateReads = Reads.jodaDateReads("yyyy-MM-dd'T'HH:mm:ss.SSSZ")
+[warn]                                          ^
+[warn] /Users/elnurmemmedov/code/3rd/travelseekr/routes/app/models/Trip.scala:55:44: method jodaDateWrites in trait EnvWrites is deprecated (since 2.6.0): Include play-json-joda as a dependency and use JodaWrites.jodaDateWrites
+[warn]   implicit val yourJodaDateWrites = Writes.jodaDateWrites("yyyy-MM-dd'T'HH:mm:ss.SSSZ'")
+[warn]                                            ^
+[warn] four warnings found
